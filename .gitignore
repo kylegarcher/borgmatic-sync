@@ -1,0 +1,4 @@
+*
+!.gitignore
+!borgmatic_sync.sh
+!README.md
